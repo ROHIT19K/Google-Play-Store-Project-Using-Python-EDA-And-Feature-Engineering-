@@ -6,7 +6,6 @@
 
 # 📌 Project Overview
 
-## 🔹 Introduction
 
 The Google Play Store App Analytics project focuses on analyzing application data from the Google Play Store to uncover insights related to app categories, ratings, reviews, installations, pricing, and market trends.
 
