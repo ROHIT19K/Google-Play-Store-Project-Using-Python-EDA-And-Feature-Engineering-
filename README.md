@@ -6,6 +6,7 @@
 
 # 📌 Project Overview
 
+## 🔹 Introduction
 
 The Google Play Store App Analytics project focuses on analyzing application data from the Google Play Store to uncover insights related to app categories, ratings, reviews, installations, pricing, and market trends.
 
@@ -26,11 +27,10 @@ Using Python and Jupyter Notebook, raw Google Play Store data was transformed in
 
 With thousands of applications available on the Google Play Store, it becomes difficult for developers and businesses to understand:
 
-* Which app categories are most popular
-* Which categories receive the highest installations
-* User rating patterns
-* Market competition across categories
-* App growth opportunities
+* Which is the Most popular app category ?
+* Which Category has largest number of installations ??
+* What are the top 5 most installed Apps in Each popular Categires??
+* How many apps are there on Google Play Store which get 5 ratings??
 
 ---
 
